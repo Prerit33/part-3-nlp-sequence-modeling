@@ -1,0 +1,42 @@
+--- SAMPLE MODEL PREDICTIONS ---
+
+Message: Great service and clear communication from the support team.
+True Label: positive
+Predicted Label: negative
+----------------------------------------
+Message: I have raised multiple tickets but nobody has fixed the problem. Please respond as soon as possible.
+True Label: negative
+Predicted Label: neutral
+----------------------------------------
+Message: I would like to know more about the available plans.
+True Label: neutral
+Predicted Label: positive
+----------------------------------------
+Message: The delivery was late and the package arrived damaged. My ticket number is 32032.
+True Label: negative
+Predicted Label: neutral
+----------------------------------------
+Message: My refund is still pending and this experience is frustrating.
+True Label: negative
+Predicted Label: negative
+----------------------------------------
+Message: My refund is still pending and this experience is frustrating.
+True Label: negative
+Predicted Label: positive
+----------------------------------------
+Message: Can you confirm whether my ticket has been assigned? My ticket number is 41483.
+True Label: neutral
+Predicted Label: negative
+----------------------------------------
+Message: Can you share the status of my subscription request? Please respond as soon as possible.
+True Label: neutral
+Predicted Label: negative
+----------------------------------------
+Message: The delivery was smooth and the product quality is excellent.
+True Label: positive
+Predicted Label: neutral
+----------------------------------------
+Message: Great service and clear communication from the support team.
+True Label: positive
+Predicted Label: positive
+----------------------------------------
