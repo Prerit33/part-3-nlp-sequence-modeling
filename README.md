@@ -1,5 +1,7 @@
 # part-3-nlp-sequence-modeling
 
+## Dataset source - https://drive.google.com/drive/folders/16lHceA9Y0e3BMD6Ru3sOl7PP7yO2_s50
+
 ## TASK 6:
 
 ### 1. Why RNNs Struggle with Long-Term Dependencies
