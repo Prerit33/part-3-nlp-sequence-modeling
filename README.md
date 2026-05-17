@@ -1,5 +1,7 @@
 # part-3-nlp-sequence-modeling
 
+## TASK 6:
+
 ### 1. Why RNNs Struggle with Long-Term Dependencies
 
 Traditional Recurrent Neural Networks (RNNs) process text sequentially, updating their hidden state word by word. However, they suffer from a mathematical issue known as the **vanishing gradient problem**.
